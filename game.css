@@ -1,6 +1,10 @@
-body {
-    color: #fff
-}
+
+    body {
+        background-image:url("Umbreon.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
 
 .choice-container {
     display:flex;

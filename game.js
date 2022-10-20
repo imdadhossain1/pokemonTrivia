@@ -43,11 +43,60 @@ let questions = [
         choice3: 'Deoxys',
         choice4: 'Mew',
         answer: 1,
+    },
+    {
+        question: 'Which town is Ash from?',
+        choice1: 'Pewter City',
+        choice2: 'Viridian City',
+        choice3: 'Cerulean City',
+        choice4: 'Pallet Town',
+        answer: 4,
+    },
+    {
+        question: 'Who is the "God" of all Pokemon?',
+        choice1: 'Arceus',
+        choice2: 'Suicune',
+        choice3: 'Lugia',
+        choice4: 'Rayquaza',
+        answer: 1,
+    },
+    {
+        question: 'Pikachu has a fondness for what condiment',
+        choice1: 'BBQ Sauce',
+        choice2: 'Mustard',
+        choice3: 'Ketchup',
+        choice4: 'Mayo',
+        answer: 3,    
+    },
+    {
+        question: "Which of these Pokemon do not appear in the fighting game 'Super Smash Bros. Ultimate?'",
+        choice1: 'Pikachu',
+        choice2: 'Mewtwo',
+        choice3: 'Incineroar',
+        choice4: 'Blastoise',
+        answer: 4,    
+    },
+    {
+        question: 'In the Pokemon video games, how many badges are required to enter the Pokemon League?',
+        choice1: '11',
+        choice2: '9',
+        choice3: '10',
+        choice4: '8',
+        answer: 4,  
+    },
+    {
+        question: "What is the name of the nurse that runs all Pokemon Centers",
+        choice1: 'Nurse Joy',
+        choice2: 'Nurse Merry',
+        choice3: 'Nurse Cheer',
+        choice4: 'Nurse Happy',
+        answer: 1, 
     }
+
 ]
 
 const SCORE_POINTS = 100
-const MAX_QUESTIONS = 4
+const MAX_QUESTIONS = 10
 
 startGame = () => {
     questionCounter = 0

@@ -24,6 +24,6 @@ Press play on the homepage to start the trivia game. The questions will be prese
 <a href="https://stackoverflow.com/questions/43847375/creating-random-questions-and-answers-javascript">How to randomize question order</a> <br />
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/keyup_event">Keyup event listener</a> <br />
 <a href="https://www.w3schools.com/cssref/css3_pr_box-shadow.asp">CSS Box shadow</a> <br />
-<a href= "https://stackoverflow.com/questions/60758147/from-scores-to-leaderboard-sorting-dictionary-in-js">Sorting leaderboard </a>
-
+<a href= "https://stackoverflow.com/questions/60758147/from-scores-to-leaderboard-sorting-dictionary-in-js">Sorting leaderboard </a> <br />
+<a href= "https://www.w3schools.com/jsrEF/prop_win_localstorage.asp"> Saving high scores </a>
 

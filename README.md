@@ -1,3 +1,5 @@
+![](Celebi.jpg)
+
 <h1> Project Title: Pokemon Trivia </h1>
 
 <h2>Description:</h2>

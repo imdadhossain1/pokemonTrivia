@@ -22,8 +22,8 @@ Press play on the homepage to start the trivia game. The questions will be prese
 <a href="https://www.w3schools.com/cssref/pr_background-image.asp">CSS background image</a> <br /> 
 <a href="https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github">Adding images to readme</a> <br />
 <a href="https://stackoverflow.com/questions/43847375/creating-random-questions-and-answers-javascript">How to randomize question order</a> <br />
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/keyup_event">Keyup event listener</a>
-<a href=""></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/keyup_event">Keyup event listener</a> <br />
+<a href="https://www.w3schools.com/cssref/css3_pr_box-shadow.asp">CSS Box shadow</a>
 
 
 

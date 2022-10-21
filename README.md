@@ -13,7 +13,7 @@ My Project will ask the user various trivia questions on Pokemon and feature a H
 
 <h3>How to Get Started:</h3>
 
-
+Press play on the homepage to start the trivia game. The questions will be presented in a random order. The progress bar will fill up as you answer each question and you will receive 100 points for each correct answer. If the answer you clicked is correct, your selected choice will flash green - if you answer incorrectly, your selected choice will flash red. At the end of the game you will be given the option to save your High Score when you enter your name. If you do not enter a name, the option to save will be disabled. Once you save your high score you will be taken back to the home page where you will click on the High Scores button to access the leaderboard.
 
 
 

@@ -118,7 +118,7 @@ getNewQuestion = () => {
 
     const questionsIndex = Math.floor(Math.random() * availableQuestions.length)
     currentQuestion = availableQuestions[questionsIndex]
-    questions.innerText = currentQuestion.question
+    question.innerText = currentQuestion.question
 
     choices.forEach(choice => {
         const number = choice.dataset['number']

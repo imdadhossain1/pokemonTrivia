@@ -20,8 +20,8 @@ My Project will ask the user various trivia questions on Pokemon and feature a H
 <h4>Credits</h4>
 
 <a href="https://www.w3schools.com/cssref/pr_background-image.asp">CSS background image</a> <br /> 
-<a href="https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github">Adding images to readme</a>
-<a href=""></a>
+<a href="https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github">Adding images to readme</a> <br />
+<a href="https://stackoverflow.com/questions/43847375/creating-random-questions-and-answers-javascript">How to randomize question order</a>
 <a href=""></a>
 <a href=""></a>
 

@@ -1,4 +1,4 @@
-<h1> Project Title: Pokemon Trivia <h1>
+<h1> Project Title: Pokemon Trivia </h1>
 
 Description:
 
